@@ -1,6 +1,6 @@
 LICENSE = "GPLv2"
-LIC_FILES_CHKSUM = "file://LICENSE;md5=b234ee4d69f5fce4486a80fdaf4a4263"
+LIC_FILES_CHKSUM = "file://LICENSE;md5=ab2e6425b631356ad4d7e9c42e175ffb"
 
-SRC_URI = "git:///home/ubuntu/Dropbox/repos/libipho-core.git/;branch=yocto"
-SRCREV = "4251d7379f934eb77e65a8bbd5f0c396649eae3f"
+SRC_URI = "git://github.com/andreasbaak/libipho-core.git;branch=master"
+SRCREV = "266f3a27d1f1a20c611d1c384a71748cfc20eaa8"
 
