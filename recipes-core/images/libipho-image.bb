@@ -15,6 +15,7 @@ IMAGE_INSTALL += "\
   packagegroup-libipho-debug-tools \
   set-libipho-base \
   useradd-libipho \
+  libipho-screen-server \
 "
 
 IMAGE_LINGUAS = " "
