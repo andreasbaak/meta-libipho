@@ -3,7 +3,7 @@ LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://../LICENSE;md5=4d2bc85d26a6eaa82f98de9241a4048a"
 
 SRC_URI = "git://github.com/andreasbaak/libipho-screen-server.git"
-SRCREV = "7e417a96b6a8a272cf44a58590be38efd1c469e9"
+SRCREV = "118c388b9cdc3731e9f172d50432e93c68bddd74"
 
 S = "${WORKDIR}/git/src"
 inherit cmake
