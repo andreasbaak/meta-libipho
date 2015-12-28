@@ -1,2 +1,3 @@
 export LIBIPHO_BASE=/home/libipho/libipho
 export LIBIPHO_WWW=/home/libipho/www
+export LIBIPHO_BACKUP_BASE=/home/libipho/backups
