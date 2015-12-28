@@ -1,3 +1,6 @@
 export LIBIPHO_BASE=/home/libipho/libipho
 export LIBIPHO_WWW=/home/libipho/www
 export LIBIPHO_BACKUP_BASE=/home/libipho/backups
+# Fifo that the core scripts use to communicate with the
+# server for the Android front-end.
+export LIBIPHO_SCREEN_FIFO=/var/volatile/tmp/libipho-screen-fifo
