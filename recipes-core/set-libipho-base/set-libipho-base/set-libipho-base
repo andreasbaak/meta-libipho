@@ -1,5 +1,9 @@
+# Base directory of the libipho core scripts.
 export LIBIPHO_BASE=/home/libipho/libipho
+# Base directory of the libipho html files.
 export LIBIPHO_WWW=/home/libipho/www
+# Base directory where libipho stores a backup of the gallery if
+# the reset button is pressed.
 export LIBIPHO_BACKUP_BASE=/home/libipho/backups
 # Fifo that the core scripts use to communicate with the
 # server for the Android front-end.
